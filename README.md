@@ -1,9 +1,7 @@
-Hi! I am @G0Nu most known as Diego Nuno. I am a software developer who loves learning.
-I am currently interested in Software Engineering. I am learning Data structures and algorithms (that for the logical side) 
-and for the technical side about javascript and react while practicing into web development. 
-Sometimes I read about blockchain environment but i'm not too focus into it but i keep learning.
-
-You can contact me on my Linkedin: https://www.linkedin.com/in/diego-nu%C3%B1o-130954209/
+Hi there! I'm Emmanuel, Software Engineer & ML specialist soon. I love learning and coding, exploring topics in tech is like discovering new planets :0. Currently studying Deep Learning and Machine Learning as my focus routes.
+If you need help or you want to work in any project you can count on me! even if it's for fun.
+Nice to meet you reader!
+You can contact me on my Linkedin: https://www.linkedin.com/in/emmanuel-nu%C3%B1o-130954209/
 or send me an email at diegonuo@outlook.com
 
 
