@@ -1,9 +1,10 @@
-Hi there! I'm Emmanuel, Software Engineer & ML specialist soon. I love learning and coding, exploring topics in tech is like discovering new planets :0. Currently studying Deep Learning and Machine Learning as my focus routes.
-If you need help or you want to work in any project you can count on me! even if it's for fun.
-Nice to meet you reader!
-You can contact me on my Linkedin: https://www.linkedin.com/in/emmanuel-nu%C3%B1o-130954209/
-or send me an email at diegonuo@outlook.com
+I am a Data Analyst and a Software Engineer with several years of experience driving innovation and building impactful solutions🌟 
 
+My strength for analysis and observation allows me to give the best insights so businesses can make informed decisions. I have a talent for building strong and honest relationships.💪
+
+I'm passionate about learning and teaching and I value authenticity and sincerity. I believe communication is key to have organized and efficient systems.🌐
+
+My curiosity led me to learn about different areas such as Blockchain, Sociology, Web Development, Design, ML and Finances. I'm not specialized in those areas but I do have a good understanding and I believe the knowledge I acquire is and will be very valuable 🌎
 
 
 
